@@ -19,6 +19,9 @@ body {
     padding: 0px 50px;
 }
 
+
+/* Nav Start */
+
 #nav-container {
     display: flex;
     justify-content: space-between;
@@ -54,6 +57,9 @@ body {
     background: #FD6F00;
     padding: 8px 12px;
 }
+
+
+/* Nav End */
 
 
 /* Banner Section Start */
